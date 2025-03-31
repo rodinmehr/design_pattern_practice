@@ -62,7 +62,7 @@ class StripePayment
 {
     public function chargeAmount($amount)
     {
-        echo "Chargin $amount via Stripe...\n";
+        echo "Charging $amount via Stripe...\n";
     }
 }
 
